@@ -6,3 +6,7 @@
 
 # 操作提示
 可以从excel表格中复制名单，粘贴到软件内的表格中。
+
+# 图片
+
+![image](introduction.png)
